@@ -1,6 +1,6 @@
 primoEsempioGit
 ===============
 
-Repository di esempio per imparare i primi passi con Git
+Repository di esempio per imparare i primi passi con Git.
 
-Questo file è stato modificato direttamente in GitHub
+La versione di monopattino che svilupperemo è quella motorizzata.
